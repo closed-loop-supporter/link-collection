@@ -69,3 +69,4 @@ https://www.diabettech.com/
 [cortison part 1](https://www.blood-sugar-lounge.de/2018/10/diabetes-typ-1-und-kortison-therapie-war-da-was-teil-1/), [part 2](https://www.blood-sugar-lounge.de/2018/11/diabetes-typ-1-und-kortison-therapie-war-da-was-teil-2/) <br>
 BEFORE USING CORTISON, CHECK WITH YOUR PHYSICIAN! THIS IS NOT A RECOMMANDATION, IT IS JUST AN EXPERIENCE FROM ANOTHER PERSON.
 (NOT VERIFIED YET with the author)
+
