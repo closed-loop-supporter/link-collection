@@ -1,6 +1,6 @@
 # Description/Beschreibung
-EN: Link collection to further informations and private experiences  
-DE: Linksammlung zu weiterführenden Informationen und persönlichen Erfahrungsberichten
+EN: Link collection to further informations and private experiences. We are *NOT* liable for the content of the linked webpages. These are mostly experiences, so don't just follow them.
+DE: Linksammlung zu weiterführenden Informationen und persönlichen Erfahrungsberichten. Wir sind *NICHT* verantwortlich für den Inhalt der verlinkten Webseiten. Es handelt sich hierbei vorwiegend um persönliche Erfahrungen, denen man nicht unbedacht folgen sollte.
 
 [English version](#deutsch)  
 [Deutsche Version](#english)
@@ -70,5 +70,3 @@ https://www.diabettech.com/
 BEFORE USING CORTISON, CHECK WITH YOUR PHYSICIAN! THIS IS NOT A RECOMMANDATION, IT IS JUST AN EXPERIENCE FROM ANOTHER PERSON.
 (NOT VERIFIED YET with the author)
 
-## Personal experiences with the loop
-- [eCarbs](https://adriansloop.blogspot.co.at/2018/04/page-margin-0.html)
