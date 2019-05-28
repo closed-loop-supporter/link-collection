@@ -15,6 +15,8 @@ DE: Linksammlung zu weiterführenden Informationen und persönlichen Erfahrungsb
 _Beate berichtet auf ihrem Blog von ihren persönlichen Lebenserfahrungen, ihrem Weg Lehrerin zu werden und ihren Loop-Erfahrungen mit AndroidAPS_
 - [Lisabetes](https://lisabetes.de/)  
 _Lisa berichtet auf ihrem Blog vor allem über ihr Leben mit Diabetes und ihre Diabulimie, aber auch über ihre eigenen Erfahrungen mit ihrem iOS Loop_
+- [Staeffs (er-)Leben mit Diabetes](http://diabetes-leben.com/)  
+_Staeff berichtet über Diabetes und Sport, verschiedenste Pumpenmodelle und ihren Loop mit AndroidAPS_
 - [Tattoos, Travels, TypeOne](http://www.tattoostravelstypeone.de)  
 _Ramona berichtet auf ihrem Blog von ihren Erfahrungen mit iOS Loop_
 
@@ -28,6 +30,11 @@ _Beate erzählt von ihrer Prüfungsvorbereitung mit ihrem Closed Loop mit Androi
 
 - [19 Jahre Diabetes - Jetzt verändert sich alles?](https://lisabetes.de/19-jahre-diabetes-jetzt-veraendert-sich-alles/)  von _Lisabetes_  
 _Lisa berichtet von ihrem Start mit dem iOS Loop_
+
+- [Loopertreffen als Nicht-Looper](http://diabetes-leben.com/2018/12/looper-treffen-smart-devices.html) von _Staeffs (er-)Leben mit Diabetes_  
+_Staeff berichtet von ihrem ersten Loopertreffen in Hannover und ihren Eindrücken_
+- [KLoop mit DanaRS und Jelly Pro: ein erstes Fazit](https://diabetes-leben.com/2019/01/loop-mit-danars.html) von _Staeffs (er-)Leben mit Diabetes_  
+_Staeff erzählt von ihren Erfahrungen mit AndroidAPS und ihrem Jelly Pro_
 
 - [Experiment Closed Loop](http://www.tattoostravelstypeone.de/closed-loop/) von _Tattoos, Travels, TypeOne_  
 _Ramona berichtet von ihren ersten Erfahrungen mit iOS Loop_
