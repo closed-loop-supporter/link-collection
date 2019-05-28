@@ -2,8 +2,8 @@
 **EN**: Link collection to further informations and private experiences. We are **NOT** liable for the content of the linked webpages. These are mostly experiences, so don't just follow them.  
 **DE**: Linksammlung zu weiterführenden Informationen und persönlichen Erfahrungsberichten. Wir sind **NICHT** verantwortlich für den Inhalt der verlinkten Webseiten. Es handelt sich hierbei vorwiegend um persönliche Erfahrungen, denen man nicht unbedacht folgen sollte.
 
-[English version](#deutsch)  
-[Deutsche Version](#english)
+[English version](#english)  
+[Deutsche Version](#deutsch)
 
 ----
 
