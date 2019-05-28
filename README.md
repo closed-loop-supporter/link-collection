@@ -19,6 +19,8 @@ _Lisa berichtet auf ihrem Blog vor allem über ihr Leben mit Diabetes und ihre D
 _Staeff berichtet über Diabetes und Sport, verschiedenste Pumpenmodelle und ihren Loop mit AndroidAPS_
 - [Tattoos, Travels, TypeOne](http://www.tattoostravelstypeone.de)  
 _Ramona berichtet auf ihrem Blog von ihren Erfahrungen mit iOS Loop_
+- [zehn.BE](https://zehn.be/)  
+_Martin berichtet von seinen Erfahrungen mit AndroidAPS und stellt Anleitungen zu verschiedenen Loop-Themen bereit_
 
 ## Persönliche Erfahrungen mit einem Loop
 - [beate_putzt mit Closed Loop](https://beateputzt.com/2018/04/13/beate_putzt-mit-closed-loop/) von _Beate putzt_  
@@ -44,6 +46,9 @@ _Ramona berichtet davon, was ein Loop kann und was nicht_
 _Ramona berichtet von ihren Probleme mit Closed Loop und Pumpe_
 - [Von der Pumpe zurück zum Pen](http://www.tattoostravelstypeone.de/pumpe-zu-pen/) von _Tattoos, Travels, TypeOne_  
 _Ramona ist wieder zurück zur ICT mit Tresiba als Basalinsulin._
+
+- [Artikelserie Closed Loop](https://zehn.be/2017/11/11/artikelserie-closed-loop/) von _zehn.BE)  
+_Martin beschreibt, was ein Closed Loop ist, was man dafür braucht, was für Vorbereitungen notwendig sind und welche Sicherheitsparameter es gibt_
 
 ----
 
