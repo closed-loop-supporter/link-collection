@@ -11,12 +11,21 @@ DE: Linksammlung zu weiterführenden Informationen und persönlichen Erfahrungsb
 ## Präsentationen
 
 ## Blogger mit Loop/Loop Erfahrungen
+- [Beate putzt](https://beateputzt.com/)  
+_Beate berichtet auf ihrem Blog von ihren persönlichen Lebenserfahrungen, ihrem Weg Lehrerin zu werden und ihren Loop-Erfahrungen mit AndroidAPS_
 - [Lisabetes](https://lisabetes.de/)  
 _Lisa berichtet auf ihrem Blog vor allem über ihr Leben mit Diabetes und ihre Diabulimie, aber auch über ihre eigenen Erfahrungen mit ihrem iOS Loop_
 - [Tattoos, Travels, TypeOne](http://www.tattoostravelstypeone.de)  
 _Ramona berichtet auf ihrem Blog von ihren Erfahrungen mit iOS Loop_
 
 ## Persönliche Erfahrungen mit einem Loop
+- [beate_putzt mit Closed Loop](https://beateputzt.com/2018/04/13/beate_putzt-mit-closed-loop/) von _Beate putzt_  
+_Beate berichtet von ihrem Start eines Closed-Loop mit AndroidAPS_
+- [Jakobsweg mit Closed Loop](https://beateputzt.com/2018/11/09/oops-i-did-it-again-premiere-jakobsweg-mit-closed-loop/) von _Beate putzt_  
+_Beate beschreibt ihre Erfahrungen auf dem Jakobsweg mit Closed Loop_
+- [Lehrerin im Vorbereitungsdienst: Die Prüfungsvorbereitung und ein Closed Loop](https://beateputzt.com/2019/04/02/lehrerin-im-vorbereitungsdienst-pruefung-diabetes/) von _Beate putzt_  
+_Beate erzählt von ihrer Prüfungsvorbereitung mit ihrem Closed Loop mit AndroidAPS_
+
 - [19 Jahre Diabetes - Jetzt verändert sich alles?](https://lisabetes.de/19-jahre-diabetes-jetzt-veraendert-sich-alles/)  von _Lisabetes_  
 _Lisa berichtet von ihrem Start mit dem iOS Loop_
 
