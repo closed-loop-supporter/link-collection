@@ -11,10 +11,15 @@ DE: Linksammlung zu weiterführenden Informationen und persönlichen Erfahrungsb
 ## Präsentationen
 
 ## Blogger mit Loop/Loop Erfahrungen
+- [Lisabetes](https://lisabetes.de/)  
+_Lisa berichtet auf ihrem Blog vor allem über ihr Leben mit Diabetes und ihre Diabulimie, aber auch über ihre eigenen Erfahrungen mit ihrem iOS Loop_
 - [Tattoos, Travels, TypeOne](http://www.tattoostravelstypeone.de)  
 _Ramona berichtet auf ihrem Blog von ihren Erfahrungen mit iOS Loop_
 
 ## Persönliche Erfahrungen mit einem Loop
+- [19 Jahre Diabetes - Jetzt verändert sich alles?](https://lisabetes.de/19-jahre-diabetes-jetzt-veraendert-sich-alles/)  von _Lisabetes_  
+_Lisa berichtet von ihrem Start mit dem iOS Loop_
+
 - [Experiment Closed Loop](http://www.tattoostravelstypeone.de/closed-loop/) von _Tattoos, Travels, TypeOne_  
 _Ramona berichtet von ihren ersten Erfahrungen mit iOS Loop_
 - [Closed-Loop - Runde Sache?](http://www.tattoostravelstypeone.de/diy-closed-loop-runde-sache/) von _Tattoos, Travels, TypeOne_  
