@@ -53,7 +53,6 @@ _Martin beschreibt, was ein Closed Loop ist, was man dafür braucht, was für Vo
 ## Andere Loop-Erfahrungen
 [Kortison Teil 1](https://www.blood-sugar-lounge.de/2018/10/diabetes-typ-1-und-kortison-therapie-war-da-was-teil-1/), [Teil 2](https://www.blood-sugar-lounge.de/2018/11/diabetes-typ-1-und-kortison-therapie-war-da-was-teil-2/)  
 VOR DER VERWENDUNG VON KORTISON IST ZWINGEND EIN ARZT ZU KONSULTIEREN! DIES IST KEINE EMPFEHLUNG, NUR EIN PERSÖNLICHER ERFAHRUNGSBERICHT EINER ANDEREN PERSON. VOR DER ANWENDUNG DER BESCHRIEBENEN HANDLUNGEN IST EIN ARZT ZU KONSULTIEREN!
-(NOCH NICHT mit dem Author abgestimmt)
 
 ----
 
