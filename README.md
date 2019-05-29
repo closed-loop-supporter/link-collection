@@ -69,7 +69,6 @@ https://www.diabettech.com/
 [eCarbs](https://adriansloop.blogspot.co.at/2018/04/page-margin-0.html) - Adrian is describing how he handles eCarbs with AndroidAPS
 
 ## other Experiences with the loop
-[cortison part 1](https://www.blood-sugar-lounge.de/2018/10/diabetes-typ-1-und-kortison-therapie-war-da-was-teil-1/), [part 2](https://www.blood-sugar-lounge.de/2018/11/diabetes-typ-1-und-kortison-therapie-war-da-was-teil-2/) <br>
+[cortison part 1](https://www.blood-sugar-lounge.de/2018/10/diabetes-typ-1-und-kortison-therapie-war-da-was-teil-1/), [part 2](https://www.blood-sugar-lounge.de/2018/11/diabetes-typ-1-und-kortison-therapie-war-da-was-teil-2/) (german)  
 BEFORE USING CORTISON, CHECK WITH YOUR PHYSICIAN! THIS IS NOT A RECOMMANDATION, IT IS JUST AN EXPERIENCE FROM ANOTHER PERSON.
-(NOT VERIFIED YET with the author)
 
