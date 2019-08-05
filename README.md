@@ -65,7 +65,7 @@ https://diyps.org/ by Dana Lewis (NOT VERIFIED YET with the author)
 ## Loop Overviews and getting started
 https://www.diabettech.com/
 
-Getting started: [10 +1 tips for looping](https://drive.google.com/file/d/1-BVjZwQjvcI8C7c_WKai56dnj62H_pVw/view?fbclid=IwAR3WJYys1W4YfTK1bcpKTcpydDDDPdh6_7mMgE2ThkyZK5kblh-NMapebKA) (link will be here as soon it is verified with the author)
+Getting started: [10 +1 tips for looping](https://drive.google.com/file/d/1-BVjZwQjvcI8C7c_WKai56dnj62H_pVw/view?fbclid=IwAR3WJYys1W4YfTK1bcpKTcpydDDDPdh6_7mMgE2ThkyZK5kblh-NMapebKA)
 
 ## useful Experiences with the loop
 [eCarbs](https://adriansloop.blogspot.co.at/2018/04/page-margin-0.html) - Adrian is describing how he handles eCarbs with AndroidAPS
