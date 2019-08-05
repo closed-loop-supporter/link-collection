@@ -62,8 +62,9 @@ VOR DER VERWENDUNG VON KORTISON IST ZWINGEND EIN ARZT ZU KONSULTIEREN! DIES IST 
 
 ## Bloggers with Loop
 https://diyps.org/ by Dana Lewis (NOT VERIFIED YET with the author)
-## Loop Overviews
+## Loop Overviews and getting started
 https://www.diabettech.com/
+Getting started: Ten +1 tips for looping (link will be here as soon it is verified with the author)
 
 ## useful Experiences with the loop
 [eCarbs](https://adriansloop.blogspot.co.at/2018/04/page-margin-0.html) - Adrian is describing how he handles eCarbs with AndroidAPS
