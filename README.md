@@ -64,6 +64,7 @@ VOR DER VERWENDUNG VON KORTISON IST ZWINGEND EIN ARZT ZU KONSULTIEREN! DIES IST 
 https://diyps.org/ by Dana Lewis (NOT VERIFIED YET with the author)
 ## Loop Overviews and getting started
 https://www.diabettech.com/
+
 Getting started: Ten +1 tips for looping (link will be here as soon it is verified with the author)
 
 ## useful Experiences with the loop
